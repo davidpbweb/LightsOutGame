@@ -1,0 +1,6 @@
+Total time 11 h
+---------------
+
+Frontend 4 h
+Backend (business logic, events and functions) 6 h
+Unit Testing 1h
