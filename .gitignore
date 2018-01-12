@@ -3,3 +3,7 @@
 ################################################################################
 
 /LightsOutGame/obj/Release
+/.vs
+/LightsOutGame/bin/Debug
+/LightsOutGame/obj/Debug
+/LightsOutGame/bin/Debug
